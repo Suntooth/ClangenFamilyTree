@@ -14,7 +14,7 @@ Note that due to the size and relative complexity of clan dynamics, the family t
 
 ## Known issues
 - Special suffixes such as "star" and "paw" are not applied; they will be a normal suffix instead (e.g. the leader of one of my clans ends up as "Marigoldclover" rather than "Marigoldstar"). This is due to how the savefile is formatted.
-- Faded cats are not included.
+- Faded cats are not included. I *think* they will still show up as a parent of a non-faded cat, but their parents won't be in the tree.
 
 ## Future plans
 - I've been having trouble with Family Echo's API, but if I can get it to work I'd like this program to get a view link from that API, so that the user doesn't have to manually import the tree.
